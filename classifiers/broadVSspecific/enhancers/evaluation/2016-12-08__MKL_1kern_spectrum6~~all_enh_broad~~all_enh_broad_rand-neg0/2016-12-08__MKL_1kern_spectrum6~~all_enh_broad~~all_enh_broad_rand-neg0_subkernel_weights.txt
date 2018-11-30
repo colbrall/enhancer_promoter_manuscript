@@ -1,0 +1,7 @@
+# bin/evaluate_enhancer_prediction_shogun.py data/classifier_config/MKL_1kern_spectrum6.classifier_config data/fantom_enh/cgi_analysis/all_enh_broad.bed data/fantom_enh/cgi_analysis/all_enh_broad_rand-neg0.bed 2016-12-08 11:11:36.122305
+#
+#
+#
+spectrum6_RAW	1
+spectrum6	1
+	1	Spectrum6

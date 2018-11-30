@@ -1,0 +1,18 @@
+# bin/evaluate_enhancer_prediction_shogun.py data/classifier_config/MKL_1kern_spectrum6.classifier_config data/fantom_enh/cgi_analysis/all_enh_broad_600.bed data/fantom_enh/cgi_analysis/all_enh_narr_600.bed 2016-12-08 12:30:13.750768
+#
+#
+#
+
+spectrum6
+F1                   0.781 (10)
+WRACC                0.578 (10)
+accuracy             0.789 (10)
+balanced_err         0.211 (10)
+cross_corr           0.580 (10)
+error_rate           0.211 (10)
+pr_auc               0.877 (10)
+precision            0.811 (10)
+recall               0.755 (10)
+roc_auc              0.868 (10)
+specificity          0.823 (10)
+
