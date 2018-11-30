@@ -1,0 +1,18 @@
+# bin/evaluate_enhancer_prediction_shogun.py data/classifier_config/MKL_1kern_spectrum6.classifier_config data/roadmap_histones/subsets/filtered/promoters_filtered_600_7.bed data/roadmap_histones/subsets/filtered/enhancers_filtered_600_7.bed 2018-08-18 16:11:53.975630
+#
+#
+#
+
+spectrum6
+F1                   0.609 (10)
+WRACC                0.251 (10)
+accuracy             0.625 (10)
+balanced_err         0.375 (10)
+cross_corr           0.252 (10)
+error_rate           0.375 (10)
+pr_auc               0.672 (10)
+precision            0.637 (10)
+recall               0.585 (10)
+roc_auc              0.674 (10)
+specificity          0.666 (10)
+
