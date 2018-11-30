@@ -1,0 +1,18 @@
+CLASSIFIER spectrum6
+MKL_NORM 1
+
+KERNEL CommWordString_6
+KERNEL_NAME Spectrum6 
+REV_COMP 1
+KERNEL_NORM VarianceKernelNormalizer
+#SEQ data/train_regions/enhancers/fantom5/fantom5_robust.fa
+#SEQ data/train_regions/enhancers/fantom5/stratified_enh/broad_enh_fasta/
+#SEQ data/train_regions/enhancers/fantom5/fantom5_negatives.fa
+#SEQ data/train_regions/enhancers/fantom5/stratified_enh/narrow/random/fasta/
+#SEQ data/train_regions/enhancers/fantom5/stratified_enh/narrow/fasta/
+SEQ data/pred_features/sequence/
+SEQ data/fantom_enh/fasta/
+#SEQ data/train_regions/enhancers/fantom5/stratified_enh/non-cpg/fasta/
+#SEQ data/train_regions/enhancers/fantom5/stratified_enh/thresholds/fasta/
+SEQ data/fantom_prom/fasta/
+END
