@@ -1,0 +1,7 @@
+# ./bin/evaluate_enhancer_prediction_shogun.py data/classifier_config/MKL_1kern_spectrum6.classifier_config cgi_promoters_subset_600.bed cgi_enhancers_600.bed 2018-12-05 15:32:39.494794
+#
+#
+#
+spectrum6_RAW	1
+spectrum6	1
+	1	Spectrum6

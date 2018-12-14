@@ -1,0 +1,18 @@
+# ./bin/evaluate_enhancer_prediction_shogun.py data/classifier_config/MKL_1kern_spectrum6.classifier_config noncgi_enhancers_subset_600_2.bed noncgi_promoters_600_2.bed 2018-12-05 17:18:32.562199
+#
+#
+#
+
+spectrum6
+F1                   0.687 (10)
+WRACC                0.362 (10)
+accuracy             0.681 (10)
+balanced_err         0.319 (10)
+cross_corr           0.362 (10)
+error_rate           0.319 (10)
+pr_auc               0.737 (10)
+precision            0.674 (10)
+recall               0.700 (10)
+roc_auc              0.747 (10)
+specificity          0.662 (10)
+

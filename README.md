@@ -41,6 +41,8 @@ output and scripts from all SVM classifiers
 fantom_enhVSprom/\
 &nbsp;&nbsp;&nbsp;&nbsp;direct classifiers between enhancers and promoters (Fig. 1)
 
+fantom_enhVsprom_cgiMatched/\
+&nbsp;&nbsp;&nbsp;&nbsp;direct classifiers between enhancers and promoters, stratified by CGI overlap
 
 broadVSspecific/\
 &nbsp;&nbsp;&nbsp;&nbsp;classifiers between broad and specific regions (Fig. 2)
@@ -52,3 +54,6 @@ cgi_analyses/\
 
 roadmap_enhVSprom/\
 &nbsp;&nbsp;&nbsp;&nbsp;direct classifiers between enhancers and promoters (Fig. 5)
+
+### tf_matching/
+tomtom output for top 6-mers in direct classifiers between enhancers and promoters (Fig 3B)
