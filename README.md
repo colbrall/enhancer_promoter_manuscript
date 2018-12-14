@@ -1,6 +1,6 @@
 ### Guide to scripts and data for "Sequence characteristics distinguish transcribed enhancers from promoters and predict their breadth of activity"
 #### Laura Colbran
-#### November 30, 2018
+#### December 14, 2018
 
 ### bin/
 avg_curves.py\
