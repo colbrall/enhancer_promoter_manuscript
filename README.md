@@ -36,7 +36,7 @@ tf_motif_specificity.csv\
 &nbsp;&nbsp;&nbsp;&nbsp;FANTOM TSPS scores, IDs
 
 ### classifiers/
-output and scripts from all SVM classifiers
+output and scripts from all SVM classifiers\
 N.B. classifier script requires Python 2.7.8 and Shogun Machine Learning Toolbox v4.0.0
 
 fantom_enhVSprom/\
