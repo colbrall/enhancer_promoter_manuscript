@@ -22,13 +22,13 @@ set_length.py\
 all_fantom_enhancers.bed\
 &nbsp;&nbsp;&nbsp;&nbsp;Broad enhancers = all with #tiss >45\
 &nbsp;&nbsp;&nbsp;&nbsp;Context Specific = random subset of those with #tiss = 1\
-&nbsp;&nbsp;&nbsp;&nbsp;regions were set to 600bp     
+&nbsp;&nbsp;&nbsp;&nbsp;regions were set to 600bp before use    
 
 
 all_fantom_prom.bed\
 &nbsp;&nbsp;&nbsp;&nbsp;Broad Promoters = random subset of those with mean_act >372\
 &nbsp;&nbsp;&nbsp;&nbsp;Context-Specific = all with mean_act <9\
-&nbsp;&nbsp;&nbsp;&nbsp;regions were set to 600bp
+&nbsp;&nbsp;&nbsp;&nbsp;regions were set to 600bp before use
 
 
 roadmap_enhancers_600bp.bed\
