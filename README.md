@@ -26,6 +26,10 @@ all_fantom_prom.bed\
 
 roadmap_enhancers_600bp.bed\
 &nbsp;&nbsp;&nbsp;&nbsp;filtered, set to 600bp
+
+
+prom_enh_rel_ROC.txt\
+&nbsp;&nbsp;&nbsp;&nbsp;values for Fig. 3 relative ROCs
  
 
 roadmap_promoters_600bp.bed\
@@ -56,5 +60,13 @@ cgi_analyses/\
 roadmap_enhVSprom/\
 &nbsp;&nbsp;&nbsp;&nbsp;direct classifiers between enhancers and promoters (Fig. 5)
 
-### tf_matching/
+### enhVsprom_tf_matching/
 tomtom output for top 6-mers in direct classifiers between enhancers and promoters (Fig 3B)
+
+### motif_sim/
+tomtom output for top 6-mer in other enhancer and promoter classifiers\
+&nbsp;&nbsp;&nbsp;&nbsp;hocomoco/ (Fig 4)\
+&nbsp;&nbsp;&nbsp;&nbsp;jaspar/ (Figs S11 & S12)\
+
+### tf_counts/
+overall broad and narrow tf counts in regions
