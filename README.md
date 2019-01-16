@@ -1,6 +1,6 @@
 ### Guide to scripts and data for "Sequence characteristics distinguish transcribed enhancers from promoters and predict their breadth of activity"
 #### Laura Colbran
-#### December 14, 2018
+#### 01/15/2018
 
 ### bin/
 avg_curves.py\
@@ -19,8 +19,8 @@ all_fantom_enhancers.bed\
 
 
 all_fantom_prom.bed\
-&nbsp;&nbsp;&nbsp;&nbsp;Broad Promoters = random subset of those with #tiss >372\
-&nbsp;&nbsp;&nbsp;&nbsp;Context-Specific = all with #tiss <9\
+&nbsp;&nbsp;&nbsp;&nbsp;Broad Promoters = random subset of those with mean_act >372\
+&nbsp;&nbsp;&nbsp;&nbsp;Context-Specific = all with mean_act <9\
 &nbsp;&nbsp;&nbsp;&nbsp;regions were set to 600bp
 
 
