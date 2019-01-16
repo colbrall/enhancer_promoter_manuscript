@@ -8,7 +8,7 @@ avg_curves.py\
 
 
 enh-prom_analyses.ipynb\
-&nbsp;&nbsp;&nbsp;&nbsp;contains R code for relative ROC calculation (Fig. 3), TF motif analyses (Fig. 4), PCA, kmer weights (Fig 1)
+&nbsp;&nbsp;&nbsp;&nbsp;contains R code for relative ROC calculation (Fig. 3), TF motif analyses (Fig. 5), PCA, kmer weights (Fig 4)
 
 
 kmer_count.py\
