@@ -58,15 +58,15 @@ cgi_analyses/\
 
 
 roadmap_enhVSprom/\
-&nbsp;&nbsp;&nbsp;&nbsp;direct classifiers between enhancers and promoters (Fig. 5)
+&nbsp;&nbsp;&nbsp;&nbsp;direct classifiers between enhancers and promoters (Fig. 6)
 
 ### enhVsprom_tf_matching/
 tomtom output for top 6-mers in direct classifiers between enhancers and promoters (Fig 3B)
 
 ### motif_sim/
 tomtom output for top 6-mer in other enhancer and promoter classifiers\
-&nbsp;&nbsp;&nbsp;&nbsp;hocomoco/ (Fig 4)\
+&nbsp;&nbsp;&nbsp;&nbsp;hocomoco/ (Fig 5)\
 &nbsp;&nbsp;&nbsp;&nbsp;jaspar/ (Figs S11 & S12)\
 
 ### tf_counts/
-overall broad and narrow tf counts in regions
+overall broad and narrow tf counts in regions (Fig. 5)
