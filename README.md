@@ -11,6 +11,13 @@ enh-prom_analyses.ipynb\
 &nbsp;&nbsp;&nbsp;&nbsp;contains R code for relative ROC calculation (Fig. 3), TF motif analyses (Fig. 4), PCA, kmer weights (Fig 1)
 
 
+kmer_count.py\
+&nbsp;&nbsp;&nbsp;&nbsp;counts occurrence of all sequences of length _k_ in a set of genomic regions
+
+
+set_length.py\
+&nbsp;&nbsp;&nbsp;&nbsp;makes every region in a bed file the same length, keeping same center point
+
 ### data/
 all_fantom_enhancers.bed\
 &nbsp;&nbsp;&nbsp;&nbsp;Broad enhancers = all with #tiss >45\
