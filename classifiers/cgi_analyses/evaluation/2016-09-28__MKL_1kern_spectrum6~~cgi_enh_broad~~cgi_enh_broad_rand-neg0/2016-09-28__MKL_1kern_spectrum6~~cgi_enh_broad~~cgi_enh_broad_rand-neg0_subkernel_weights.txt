@@ -1,7 +1,0 @@
-# bin/evaluate_enhancer_prediction_shogun.py data/classifier_config/MKL_1kern_spectrum6.classifier_config data/promoters/cgi_enh_broad.bed data/promoters/cgi_enh_broad_rand-neg0.bed 2016-09-28 13:47:37.133944
-#
-#
-#
-spectrum6_RAW	1
-spectrum6	1
-	1	Spectrum6
