@@ -2,6 +2,7 @@
 #### Laura Colbran
 #### 01/15/2018
 
+doi:[10.1534/genetics.118.301895](https://doi.org/10.1534/genetics.118.301895)
 ### bin/
 avg_curves.py\
 &nbsp;&nbsp;&nbsp;&nbsp;averages ROC and PR curves from many classifiers, used when we split larger sets up
